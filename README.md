@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @thejeraldherron
 - 👀 I’m interested in frontend developement, c# and audio engineering.
-- 🌱 I’m currently learning webassembly, Elixir, Elm, React and Elm 
+- 🌱 I’m currently learning webassembly, Elixir, Elm and everything else JS
 - 💞️ I’m looking to collaborate on Audio Frontend UXs
 - 📫 How to reach me jerry@noridel.com
 
